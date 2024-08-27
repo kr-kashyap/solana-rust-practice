@@ -21,7 +21,7 @@
 
 <br>
 
-Duration ` 18 Jan 2024 - Present`
+Duration ` 18 Jan 2024 - 24 Jan 2024`
 
 ## Creator 
 [`Kashyap Nirmal`](https://github.com/kr-kashyap/)
